@@ -1,6 +1,6 @@
 # Home
 
-**Data Scientist · Machine Learning · Optimization**
+**Data Science · Machine Learning · Optimization**
 
 
 

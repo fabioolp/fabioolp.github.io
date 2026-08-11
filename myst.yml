@@ -1,0 +1,23 @@
+version: 1
+
+project:
+  title: Home
+  description: Data Scientist · Machine Learning · Optimization
+  authors:
+    - name: Fábio Oliveira
+  github: fabioolp/fabioolp.github.io
+
+  toc:
+    - file: pages/index.md
+    - file: pages/about.md
+    - file: pages/research.md
+    - title: Notebooks
+      children:
+        - file: notebooks/example.ipynb
+
+site:
+  title: Fábio Oliveira
+  template: book-theme
+  options:
+    logo_text: Fábio Oliveira
+    style: ./style.css
